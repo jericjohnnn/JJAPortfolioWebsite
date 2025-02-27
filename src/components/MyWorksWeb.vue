@@ -74,7 +74,8 @@ const carouselItems = [
     title: 'Tudlo',
     description: 'An online central place for all Tutors in Consolatrix College Toledo City inc.',
     links: [
-      { label: 'Behance', icon: 'behance', url: 'https://www.behance.net/gallery/217925539/TUDLO-CAPSTONE-PROJECT-2024' },
+      // { label: 'Behance', icon: 'behance', url: 'https://www.behance.net/gallery/217925539/TUDLO-CAPSTONE-PROJECT-2024' },
+      { label: 'Live demo', icon: 'globe', url: 'https://tudloapp.vercel.app/' },
       { label: 'Github', icon: 'github', url: 'https://github.com/jericjohnnn/Capstone-2024' },
     ],
   },

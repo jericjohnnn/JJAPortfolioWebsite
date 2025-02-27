@@ -21,8 +21,8 @@
             expected to graduate in 2025.
           </p>
           <p>
-            Design has been my focus since high school, but college shifted my passion to web
-            development, especially back-end development.
+            I specialize in REST APIs and full-stack development with Laravel and Vue. I'm
+            also expanding my skills by learning Node.js and other JavaScript technologies.
           </p>
           <p>
             I'm dedicated to learning and growing, always working on new skills and exploring
