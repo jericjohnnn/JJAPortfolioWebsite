@@ -2,7 +2,7 @@
   <div
     :class="[' text-white transition-colors duration-500', isOnDevView ? 'bg-black' : 'bg-yellow']"
   >
-    <div class="container mx-auto lg:h-screen px-4 py-14 flex flex-col justify-between">
+    <div class="container mx-auto lg:min-h-screen px-4 py-14 flex flex-col justify-between">
       <div class="flex flex-col items-center mb-8">
         <h2
           :class="[
