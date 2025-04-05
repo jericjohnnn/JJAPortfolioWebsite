@@ -21,7 +21,7 @@
             expected to graduate in 2025.
           </p>
           <p>
-            I specialize in REST APIs and full-stack development with Laravel and Vue. I'm
+            I specialize in REST API's and Full-Stack development with Laravel and Vue. I'm
             also expanding my skills by learning Node.js and other JavaScript technologies.
           </p>
           <p>
