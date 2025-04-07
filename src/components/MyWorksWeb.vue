@@ -78,6 +78,20 @@ const carouselItems = [
     ],
   },
   {
+    image: '/works_dev/wealthme.webp',
+    title: 'WealthME',
+    description: 'An expense tracker that logs income and expenses by category to help you make smarter financial decisions with AI.',
+    technologies: [
+      'https://skillicons.dev/icons?i=php',
+      'https://skillicons.dev/icons?i=js',
+      'https://skillicons.dev/icons?i=laravel',
+      'https://skillicons.dev/icons?i=vue',
+      'https://skillicons.dev/icons?i=mysql',
+      'https://skillicons.dev/icons?i=vuetify',
+    ],
+    links: [{ label: 'Live demo', icon: 'globe', url: 'https://wealthme.site/' },],
+  },
+  {
     image: '/works_dev/passafun.webp',
     title: 'Passaquiz',
     description:
@@ -94,29 +108,15 @@ const carouselItems = [
       { label: 'Live demo', icon: 'globe', url: 'https://play.passafund.com/' },
     ],
   },
-  {
-    image: '/works_dev/jja.webp',
-    title: 'Portfolio website',
-    description: 'A sleek portfolio showcasing my projects, skills, and experience as a software engineer.',
-    technologies: [
-      'https://skillicons.dev/icons?i=vue',
-      'https://skillicons.dev/icons?i=tailwind',
-    ],
-    links: [{ label: 'Github', icon: 'github', url: 'https://github.com/jericjohnnn/JJAPortfolioWebsite' }],
-  },
   // {
   //   image: '/works_dev/jja.webp',
-  //   title: 'WealthME',
-  //   description: 'A simple expense tracker that logs income and expenses by category to help you make smarter financial decisions.',
+  //   title: 'Portfolio website',
+  //   description: 'A sleek portfolio showcasing my projects, skills, and experience as a software engineer.',
   //   technologies: [
-  //     'https://skillicons.dev/icons?i=php',
-  //     'https://skillicons.dev/icons?i=js',
-  //     'https://skillicons.dev/icons?i=laravel',
   //     'https://skillicons.dev/icons?i=vue',
-  //     'https://skillicons.dev/icons?i=mysql',
-  //     'https://skillicons.dev/icons?i=vuetify',
+  //     'https://skillicons.dev/icons?i=tailwind',
   //   ],
-  //   links: [{ label: 'Live demo', icon: 'globe', url: 'https://wealthme.site/' },],
+  //   links: [{ label: 'Github', icon: 'github', url: 'https://github.com/jericjohnnn/JJAPortfolioWebsite' }],
   // },
 ]
 </script>
