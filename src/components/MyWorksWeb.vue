@@ -105,7 +105,7 @@ const carouselItems = [
       'https://skillicons.dev/icons?i=tailwind',
     ],
     links: [
-      { label: 'Live demo', icon: 'globe', url: 'https://play.passafund.com/' },
+      { label: 'Live demo', icon: 'globe', url: 'https://dev.play.passafund.com/' },
     ],
   },
   // {
